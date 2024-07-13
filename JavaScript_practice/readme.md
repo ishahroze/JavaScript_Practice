@@ -61,5 +61,8 @@ Reduce Function
 
 Performs some operations and reduces the array to single value .It returns that single value
  
+Events 
+Onclick
+OndblClick=Performsaction on double click
 
 
