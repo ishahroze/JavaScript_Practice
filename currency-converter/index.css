@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    min-height: 100vh;
+    background-color: #f4e4ba;
+}
+.dropdown{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.select-container image{
+    max-width: 2rem;
+}
+
+#btn{
+    height: 1.5rem;
+    background-color: #af4d98;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    font-size: 1rem;
+}

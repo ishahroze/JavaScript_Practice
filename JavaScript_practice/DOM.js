@@ -6,7 +6,4 @@ All html we can acces in javascript they converts in object called document ,the
 
 DOM Manipulation
 
-
-
-
 */
