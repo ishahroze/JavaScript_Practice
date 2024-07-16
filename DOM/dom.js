@@ -36,7 +36,7 @@ console.log(div)
 let id=div?.getAttribute("id")
 console.log(id)
 //For Styling 
-div.style.backgroundColor="black";
+div.style.backgroundColor="black ";
 div.style.fontSize="36px";
 div.style.color="white"
 
